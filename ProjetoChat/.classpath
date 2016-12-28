@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/Ytallo/Documents/IFCE/Engenharia da Computação/2016.1 ( 9º Semestre )/Programação Paralela e Distribuída/4ª parte/757851-PPDSoftwares/river/lib/jini-core.jar"/>
+	<classpathentry kind="lib" path="/Users/Ytallo/Documents/IFCE/Engenharia da Computação/2016.1 ( 9º Semestre )/Programação Paralela e Distribuída/4ª parte/757851-PPDSoftwares/river/lib/jini-ext.jar"/>
+	<classpathentry kind="lib" path="/Users/Ytallo/Documents/IFCE/Engenharia da Computação/2016.1 ( 9º Semestre )/Programação Paralela e Distribuída/4ª parte/757851-PPDSoftwares/river/lib/outrigger.jar"/>
+	<classpathentry kind="lib" path="/Users/Ytallo/Documents/IFCE/Engenharia da Computação/2016.1 ( 9º Semestre )/Programação Paralela e Distribuída/4ª parte/757851-PPDSoftwares/river/lib/reggie.jar"/>
+	<classpathentry kind="lib" path="/Users/Ytallo/Desktop/openjms/lib/openjms-0.7.7-beta-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
