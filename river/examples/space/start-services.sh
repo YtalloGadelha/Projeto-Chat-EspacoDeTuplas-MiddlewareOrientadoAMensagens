@@ -1,5 +1,0 @@
-#!/bin/sh
-./httpd.sh &
-./jrmp-reggie.sh &
-./jrmp-outrigger-group.sh &
-
